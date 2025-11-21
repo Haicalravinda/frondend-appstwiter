@@ -49,18 +49,18 @@ npm run dev
 ### Register
 Buat akun baru melalui halaman register.  
 
-![Register Page](assets/register.png)
+![Register Page](Assets/register.png)
 
 ### Login
 Masuk menggunakan akun yang telah dibuat.  
 
-![Login Page](assets/login.png)
+![Login Page](Assets/login.png)
 
 ### Feed Sosial Media
 Setelah login, Anda akan diarahkan ke feed yang menampilkan posting dari user yang diikuti.  
 Dapat membuat postingan baru, follow atau unfollow user.  
 
-![Feed Page](assets/feed.png)
+![Feed Page](Assets/feed.png)
 
 Semua aksi frontend akan otomatis terhubung ke backend melalui API.
 
