@@ -126,11 +126,7 @@ Frontend menggunakan **TailwindCSS** untuk styling dengan pendekatan utility-fir
 
 ---
 
-## 📄 License
 
-[Tambahkan lisensi di sini jika ada]
-
----
 
 ## 🤝 Contributing
 
